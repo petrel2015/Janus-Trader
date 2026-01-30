@@ -1,0 +1,205 @@
+﻿深度权益研究报告：药明康德 (603259.SH / 2359.HK)
+投资价值、未来发展路径与战略定位的综合深度分析
+报告日期： 2026年1月29日
+研究标的： 无锡药明康德新药开发股份有限公司 (WuXi AppTec Co., Ltd.)
+行业分类： 医疗健康 / 合同研发生产组织 (CRDMO)
+报告类型： 深度覆盖 / 长期战略展望
+________________
+1. 核心观点与投资逻辑综述
+1.1 核心投资逻辑：基本面与估值的历史性背离
+站在2026年初的时间节点审视药明康德（以下简称“公司”或“药明康德”），我们发现这支股票正处于一个极具张力的历史时刻。其核心投资逻辑建立在强劲基本面与地缘政治风险折价之间的巨大背离之上。
+从基本面维度看，公司正处于历史上经营效率最高的时期之一。2025年全年的业绩预告及三季报显示，公司并未受到外部宏观环境的显著压制，反而凭借其独特的CRDMO（合同研究、开发与生产）一体化商业模式，在全球医药供应链重构的浪潮中占据了不可替代的生态位1。特别是受益于全球GLP-1（胰高血糖素样肽-1）激动剂药物的爆发式需求，公司的TIDES（多肽与寡核苷酸）业务已从新兴增长点蜕变为绝对的主力增长引擎，营收实现翻倍式增长，且产能扩张速度领跑全球3。截至2025年9月末，公司在手订单（Backlog）接近600亿元人民币，为2026乃至2027年的业绩确定性提供了坚实的护城河2。
+从估值与风险维度看，市场对“地缘政治黑天鹅”的恐慌已在过去两年被过度定价。尽管美国《生物安全法案》（BIOSECURE Act）已于2025年12月正式签署成为法律5，但最终法案文本并未直接将药明康德列为“受关注生物技术公司”（Biotechnology Company of Concern, BCC），而是将其挂钩于美国国防部（DoD）的1260H清单。而在2026年1月7日DoD发布的最新清单中，药明康德并未在列6。这一“靴子落地”但未伤及筋骨的监管结果，为公司赢得了宝贵的战略缓冲期。当前公司市盈率（P/E）仅为16-19倍（TTM），远低于其过去5年约57倍的历史均值8，这意味着市场定价中包含了极高比例的风险折价，一旦情绪修复，戴维斯双击（业绩增长+估值修复）的弹性巨大。
+1.2 关键财务与运营亮点摘要
+根据最新的财务数据及分析师一致预期，药明康德展现出以下核心特征：
+* 营收韧性与结构优化： 2025年前三季度，公司实现营收328.6亿元，同比增长18.6%2。更重要的是，剔除新冠商业化项目后的经常性业务增长更为强劲。TIDES业务板块营收暴增121.1%，不仅抵消了部分早期药物发现业务的周期性疲软，更显著提升了整体毛利率水平3。
+* 盈利能力的阶跃式提升： 公司预计2025年全年归母净利润将达到192亿元左右，同比增长102.7%；即便剔除出售资产等非经常性损益，经调整Non-IFRS归母净利润仍预计增长41.3%，达到150亿元10。这一数据证伪了市场关于“地缘政治导致订单流失、利润下滑”的悲观假设。
+* 战略性资产剥离： 2025年10月，公司宣布将临床CRO及SMO业务剥离给高瓴资本（Hillhouse Investment）11。这一举措被视为精妙的战略“瘦身”——既剥离了涉及敏感患者数据的业务以规避美国监管风险，又回笼了资金聚焦于高壁垒的化学与制造（Chemistry & Manufacturing）核心主业。
+* 全球产能布局的对冲： 面对“China+1”的供应链趋势，公司位于新加坡的研发生产基地预计于2027年投产，美国特拉华州Middletown的工厂预计于2026年全面运营12。这种“全球双源”（Global Dual Source）策略正在实质性地降低单一地缘风险。
+________________
+2. 宏观环境与行业全景分析
+要准确研判药明康德的未来，必须将其置于全球医药研发外包产业链的宏观叙事中。当前行业正面临三大核心趋势的共振：GLP-1引发的产能超级周期、地缘政治导致的供应链分层、以及中国国内政策对创新药全链条的支持。
+2.1 全球CRDMO行业的“TIDES革命”
+2025-2026年，全球制药行业最确定的阿尔法收益来自于代谢类药物（减肥药/糖尿病药）。以礼来（Eli Lilly）的Tirzepatide和诺和诺德（Novo Nordisk）的Semaglutide为代表的GLP-1药物需求呈现指数级爆发。
+2.1.1 供需失衡的超级周期
+尽管大型制药公司（Big Pharma）正在疯狂投资自建产能（如礼来在阿拉巴马州的投资），但生物医药工厂的建设周期通常长达3-5年13。这意味着在2026-2028年的窗口期内，全球多肽产能存在巨大的结构性缺口。
+表格 1：全球多肽合成产能供需格局分析 (2025-2026)
+
+
+维度
+	现状描述
+	药明康德的定位
+	数据支撑
+	技术壁垒
+	长链多肽合成难度大，纯度要求极高，固相合成（SPPS）是主流技术。
+	拥有全球最大的SPPS反应釜体积之一，技术良率领先。
+	反应釜体积从32,000L扩至100,000L 3
+	产能缺口
+	现有CMO（如Lonza, CordenPharma）产能被预订一空，新建产能爬坡缓慢。
+	泰兴基地（Taixing）投产及时，填补了全球各大药企的急单需求。
+	泰兴基地占地169英亩，9个车间已投产 14
+	供应链响应
+	欧美本土扩产受制于劳动力短缺和环保审批。
+	中国工程师红利+成熟的供应链体系，交付速度（Time-to-Market）极快。
+	TIDES业务营收增速121.1% 4
+	2.1.2 药明康德的“卡位”优势
+药明康德并非仅仅是产能的提供者，更是技术的赋能者。其CRDMO模式允许客户在分子发现阶段（R）就切入，随着分子推进到临床后期和商业化（D&M），药明康德自然承接了放大生产的订单。这种“跟随分子”（Follow the Molecule）的策略在GLP-1领域大放异彩。数据显示，公司目前支持着全球超过20个临床阶段的GLP-1项目15，这意味着只要其中任何一个药物获批上市，药明康德都将获得长达数年的稳定商业化制造订单。
+2.2 地缘政治与供应链的“二元悖论”
+当前行业面临的最大矛盾在于：政治上的脱钩意愿与商业上的深度依赖之间的冲突。
+2.2.1 美国的依赖性
+尽管华盛顿的政策制定者试图通过《生物安全法案》减少对中国生物技术的依赖，但商业现实却更加复杂。美国生物医药行业在早期研发和中间体制造上对中国的依赖程度极高。
+* 创新源头： 数据显示，中国生物技术公司现在提供了进入美国药物管线的新化合物的约三分之一，这一比例在过去五年中从几乎为零飙升至30%以上16。
+* 成本与效率： 放弃中国CDMO将导致药物开发成本飙升和上市时间推迟。据行业调查，美国生物制药公司将30%的FDA批准药物工作流程外包给中国CDMO；如果被迫放弃这些合作伙伴，寻找具有相当能力的替代服务提供商可能需要长达数年的时间17。
+2.2.2 供应链的“中国+1”策略
+为了应对这一悖论，跨国药企（MNC）和药明康德达成了某种默契的平衡——“中国+1”。即：利用中国的研发效率和成本优势进行早期开发（0-1阶段），而在商业化生产阶段（1-100阶段）通过药明康德的新加坡或美国工厂进行，或者通过技术转移至第三方。
+药明康德对此的应对是坚决的国际化。
+* 新加坡基地： 2027年投产，将成为连接东西方的核心枢纽。
+* 美国特拉华州基地： 2026年全面投产，专门服务于对地缘政治敏感度高的美国本土客户12。 这种布局使得药明康德能够向客户提供一份“地缘政治保险”：如果政策风向恶化，项目可以无缝转移至其海外基地。
+2.3 中国国内政策环境：全链条支持
+在中国国内，政策风向正从单纯的行业监管转向全方位的产业扶持。
+* 全链条支持创新药： 2025年发布的《全链条支持创新医药高质量发展》政策，以及新修订的《药品管理法实施条例》（2026年5月施行），明确了对创新药研发、临床试验、审评审批的加速支持18。
+* 上海的区域红利： 作为药明康德的总部所在地，上海在2026年发布了鼓励外资再投资和生物医药产业升级的一揽子政策20。这为药明康德在上海的持续研发投入提供了政策红利和资金支持。
+* 临床试验改革： 中国临床试验审批速度的大幅提升（IND默示许可制），使得中国成为全球多中心临床试验（MRCT）的重要一环21。虽然药明康德剥离了临床业务，但整个生态的繁荣对其临床前测试（Testing）和后续生产（Manufacturing）业务仍有正向溢出效应。
+________________
+3. 政策与时事深度复盘：悬在头顶的达摩克利斯之剑
+对于药明康德的投资者而言，没有什么比美国《生物安全法案》（BIOSECURE Act）和国防部1260H清单更牵动神经。我们需要从法律文本和执行细则层面，对这一核心风险进行去魅。
+3.1 《生物安全法案》：从草案到法律的演变
+2025年12月18日，美国总统签署了包含《生物安全法案》的2026财年国防授权法案（NDAA），使其正式成为法律5。
+3.1.1 关键条款的变动
+与早期草案相比，最终生效的法律出现了关键性的软化：
+* 移除具体名单： 早期版本直接点名药明康德（WuXi AppTec）。最终版本移除了对药明康德、药明生物的具体点名，转而采用了一套基于定义的认定程序6。
+* 定义机制： 法案将“受关注生物技术公司”（BCC）定义为：
+   1. 被列入美国国防部1260H清单的公司；
+   2. 由美国行政管理和预算局（OMB）在与国防部等部门协调后，认定为受“外国对手”控制且对美国国家安全构成风险的公司22。
+* 祖父条款（Safe Harbor）： 法律为现有合同提供了长达5年的豁免期（至2032年），允许现有客户继续履行合同。这极大地缓解了药企立即切断供应链的恐慌23。
+3.1.2 法律层面的解读
+移除名字是药明康德的一次重大战术胜利。这意味着国会放弃了直接通过立法“宣判”公司死刑，而是将裁量权交给了行政部门（国防部和OMB）。这为公司提供了通过法律和游说手段进行抗辩的程序正义空间，而非面临不可上诉的立法禁令。
+3.2 国防部1260H清单：2026年1月的关键战役
+由于《生物安全法案》直接挂钩1260H清单，该清单的年度更新成为了市场的焦点。
+* 2026年更新结果： 2026年1月7日，美国国防部发布了最新的1260H清单。尽管有来自国会反华鹰派的巨大压力（如众议院特设委员会的信函要求），药明康德依然没有被列入该清单6。
+* 背后的逻辑： 1260H清单的核心标准是“军民融合”（Military-Civil Fusion）或与解放军的关联。药明康德作为一家纯粹的商业化CRO/CDMO，其业务主要是化学合成和小分子制造，与基因组学数据（如华大基因BGI，已被列入清单）相比，其国家安全敏感度较低。
+* 即时影响： 只要药明康德不在1260H清单上，且未被OMB特别指定，《生物安全法案》的限制措施目前就不适用于药明康德。这是2026年上半年最大的利好，意味着公司在法律层面暂时是“自由”的。
+3.3 未来的风险点：OMB程序
+虽然躲过了1260H清单，但OMB（行政管理和预算局）的认定程序是悬在未来的另一只靴子。
+* 不确定性： OMB需要在2026年12月之前发布首批指定名单5。虽然法律标准要求证明公司对国家安全构成风险，但这包含了主观判断。
+* 公司的防御： 药明康德剥离临床CRO业务（涉及患者数据）给高瓴资本，正是为了切断任何可能被解读为“数据安全风险”的业务触点，从而在OMB的审查中占据有利位置。
+________________
+4. 公司自身深度分析：业务引擎与战略转型
+在政策风暴的中心，药明康德的业务引擎并未熄火，反而在进行深刻的自我迭代。
+4.1 核心引擎：WuXi Chemistry（化学业务）
+化学业务是公司的基石，贡献了超过70%的营收和绝大部分利润。
+4.1.1 TIDES业务的爆发
+如前所述，TIDES（寡核苷酸和多肽）是当前的明星业务。
+* 业绩数据： 2025年前三季度，TIDES营收259.8亿元（含整体化学业务），其中TIDES板块自身增速高达121.1%3。
+* 技术护城河： 公司不仅拥有产能，还拥有独特的CRDMO模式。在过去12个月里，公司合成了超过43万个新化合物2。这种大规模的平行合成能力，结合AI辅助设计，使得药明康德成为全球药物发现的基础设施。
+* 分子管线漏斗： 截至2025年9月，公司的小分子D&M（开发与生产）管线拥有3,430个分子，其中包括80个商业化项目和87个三期临床项目2。这是一个巨大的蓄水池，随着这些药物陆续上市，商业化生产的收入将呈滚雪球式增长。
+4.2 战略剥离：WuXi Clinical与SMO的出售
+2025年10月，公司宣布将WuXi Clinical（临床CRO）和WuXi MedKey（SMO）出售给高瓴资本11。
+深度解读：
+这是一个极具战略眼光的“断臂求生”之举。
+1. 政治隔离： 临床试验业务必然涉及大量美国患者的敏感医疗数据和遗传信息。这正是美国国会和《生物安全法案》最忌惮的领域。剥离这部分业务，相当于切除了“政治感染源”，使得剩余的化学和制造业务（Hard Tech）在安全审查中更加“清白”。
+2. 商业提纯： 临床CRO是人力密集型业务，毛利率通常低于技术密集型的CDMO业务。剥离后，药明康德的整体毛利率和人效将进一步提升，不仅优化了财务报表，也更符合其作为“高端制造平台”的定位。
+3. 现金回流： 交易所获得的现金流可以用于支持新加坡和美国工厂的资本开支（Capex），减少对外部融资的依赖。
+4.3 全球化布局的具体进展
+* 美国Middletown基地： 位于特拉华州，预计2026年投产。该基地规模巨大，将具备从制剂到包装的全流程能力。这不仅是为了规避关税，更是为了满足美国客户“On-shore”（在岸）生产的合规要求12。
+* 新加坡基地： 2027年投产。作为亚洲的中心，新加坡基地将承接那些既希望利用亚洲成本优势，又担心中国地缘风险的全球客户订单。
+________________
+5. 财务数据深度拆解与前瞻
+5.1 2025年业绩综述：超预期的韧性
+根据摩根士丹利（Morgan Stanley）和公司发布的业绩预告10，2025年的财务表现可以用“惊艳”来形容。
+表格 2：2025年全年业绩核心数据概览 (预估)
+
+
+财务指标
+	数值 (人民币)
+	同比增长 (YoY)
+	深度解读
+	总营收
+	455 亿元
+	+15.8%
+	在外部环境极度恶劣的情况下，依然实现了双位数增长，证明了客户粘性极强。
+	持续经营业务收入
+	-
+	+21.4%
+	剔除了已剥离业务和特定商业化项目后的真实增长率，显示核心造血能力在加速。
+	归母净利润
+	192 亿元
+	+102.7%
+	利润翻倍。主要受益于资产出售（如WuXi XDC的部分股权、临床业务出售）带来的一次性投资收益26。
+	经调整Non-IFRS净利
+	150 亿元
+	+41.3%
+	這是剔除一次性收益后的“干货”利润。41%的增速远超营收增速，体现了极强的经营杠杆效应和TIDES业务的高毛利贡献。
+	5.2 利润率分析：效率的胜利
+公司经调整Non-IFRS毛利率在2025年前三季度达到了51.3%（化学业务板块）2。
+* 驱动因素：
+   1. 自动化与AI： 连续化生产技术（Continuous Manufacturing）的大规模应用降低了单位成本。
+   2. 规模效应： 随着泰兴等大基地的投产，固定成本被摊薄。
+   3. 汇率因素： 美元升值对以美元结算为主的药明康德构成了汇兑利好。
+5.3 在手订单（Backlog）：未来的水晶球
+截至2025年9月30日，持续经营业务的在手订单达到598.8亿元，同比增长41.2%2。
+* 含义： 接近600亿的订单储备，已经覆盖了2026年全年的预期营收（约515亿元）。这意味着2026年的业绩确定性极高，除非发生极端的合同取消事件（目前未见迹象）。这为投资者提供了一个极佳的安全垫。
+________________
+6. 估值分析与分析师一致预期
+6.1 历史估值区间的极度压缩
+药明康德目前的估值处于历史极低水位。
+* 当前P/E (2026年1月)： 约16.5x - 19x (TTM)。
+* 历史均值： 过去5年的平均P/E约为57.6x8。
+* 高点对比： 2020年高点时P/E曾超过130倍。
+* 同行对比： 国际同行如Lonza（瑞士龙沙）通常交易在25-30倍P/E，Thermo Fisher（赛默飞）交易在20-25倍。
+分析： 目前的估值隐含了极高的“政治破产风险”。市场定价假设公司可能在未来几年内失去美国市场（占收比68%）。然而，随着BIOSECURE法案落地且未伤及要害，这种极端的悲观预期面临修正。
+6.2 投行观点与目标价
+国际大行在2026年初纷纷发表了看多观点，认为市场反应过度。
+* 摩根士丹利 (Morgan Stanley)： 将药明康德列为2026年“首选股”（Top Pick）。给予“增持”（Overweight）评级，A股目标价130元人民币。其预测2026年营收将达到515.5亿元，同比增长13.4%；虽然归母净利润因2025年的高基数（一次性收益）可能同比下降12.7%，但核心盈利能力仍将提升27。
+* 花旗 (Citi)： 维持“买入”评级，港股目标价142港元。花旗认为公司在GLP-1供应链中的地位被低估，且2026年内生增长动力强劲29。
+* 中邮证券： 认为公司Q4盈利能力环比稳定，给予“买入”评级，预测2026年PE仅为19倍，具备极高性价比27。
+________________
+7. 风险因素警示
+尽管前景看好，投资者必须对以下风险保持高度警惕：
+1. 监管的“回马枪”： 虽然目前未列入1260H清单，但DoD每年更新一次，OMB也可以随时指定。如果中美关系急剧恶化，药明康德仍可能被重新“拉黑”。这是最大的不确定性。
+2. 客户的供应链重构： 尽管目前订单强劲，但部分保守的美国客户可能会在长期新项目中逐渐减少对华外包比例，这种“温水煮青蛙”式的订单流失可能在3-5年后显现。
+3. 汇率风险： 公司收入大部分来自海外（美元），成本大部分在国内（人民币）。如果人民币大幅升值，将直接侵蚀毛利率。
+4. TIDES竞争加剧： 看到多肽市场的暴利，印度CDMO（如Cipla, Dr. Reddy's）和欧美本土CDMO都在疯狂扩产。2027年以后可能会出现产能过剩导致的价格战。
+________________
+8. 总结与建议
+短期未来（2026年）：修复与反弹
+2026年将是药明康德的“价值修复年”。
+* 催化剂： 2025年年报的亮眼数据、1260H清单的“安全落地”、以及美联储降息带来的生物医药投融资复苏。
+* 走势判断： 随着恐慌情绪消退，估值有望从16倍修复至20-25倍区间。叠加15%-20%的业绩增长，股价具备30%-50%的反弹空间。
+长期未来（2027-2030）：蜕变与共存
+长期来看，药明康德将通过剥离敏感业务和建立海外产能，完成从“中国CDMO”向“全球CDMO”的蜕变。
+* 格局： 它将不再单纯依赖低成本红利，而是依靠技术壁垒（如TIDES规模效应）和全球多地交付能力生存。
+* 终局推演： 只要不发生极端的全面制裁，药明康德将演变为类似富士康的全球性制造巨头——虽然面临地缘压力，但因其在供应链中的不可替代性而与欧美市场长期共存。
+投资建议：
+对于风险偏好较高的投资者，当前是一个极具吸引力的左侧布局点。核心逻辑在于：市场定价了“死亡”，而公司展现了“盛年”。
+________________
+免责声明：本报告基于公开市场信息及分析师预测，不构成直接投资建议。股市有风险，投资需谨慎。
+引用的著作
+1. WuXi AppTec Q3 2025 slides: Revenue jumps 22.5%, raises full-year guidance, 访问时间为 一月 30, 2026， https://www.investing.com/news/company-news/wuxi-apptec-q3-2025-slides-revenue-jumps-225-raises-fullyear-guidance-93CH-4309346
+2. WuXi AppTec Achieves Strong Double-Digit Growth in Revenue and Profit for Q1-Q3 2025; Backlog for Continuing Operations Up 41.2% YoY, 访问时间为 一月 30, 2026， https://www.wuxiapptec.com/news/wuxi-news/8604
+3. WuXi AppTec Achieves Strong Double-Digit Growth in Revenue and Profit for Q1-Q3 2025 Backlog for Continuing Operations Up 41.2% YoY Further Raises 2025 Full-year Guidance - PR Newswire, 访问时间为 一月 30, 2026， https://www.prnewswire.com/news-releases/wuxi-apptec-achieves-strong-double-digit-growth-in-revenue-and-profit-for-q1-q3-2025-backlog-for-continuing-operations-up-41-2-yoy-further-raises-2025-full-year-guidance-302594605.html
+4. WXAT 2025Q3 Results Presentation - WuXi AppTec, 访问时间为 一月 30, 2026， https://officialsite-static.wuxiapptec.com/upload/WXAT_2025_Q3_Results_Presentation_v_F_fba73ad256.pdf
+5. The BIOSECURE Act Becomes Law in the United States | Advisories | Arnold & Porter, 访问时间为 一月 30, 2026， https://www.arnoldporter.com/en/perspectives/advisories/2025/12/the-biosecure-act-becomes-law-in-the-united-states
+6. BIOSECURE Act Enacted | Insights | Ropes & Gray LLP, 访问时间为 一月 30, 2026， https://www.ropesgray.com/en/insights/alerts/2026/01/biosecure-act-enacted
+7. Entities Identified as Chinese Military Companies Operating in the United States in Accordance with Section 1260H of the William M., 访问时间为 一月 30, 2026， https://media.defense.gov/2025/Jan/07/2003625471/-1/-1/1/ENTITIES-IDENTIFIED-AS-CHINESE-MILITARY-COMPANIES-OPERATING-IN-THE-UNITED-STATES.PDF
+8. WuXi AppTec Co., Ltd. (OTCPK:WUXA.Y) P/E Ratio - Investing.com ZA, 访问时间为 一月 30, 2026， https://za.investing.com/pro/OTCPK:WUXA.Y/explorer/pe_ltm
+9. WuXi AppTec Co., Ltd. - PE Ratio - Wisesheets, 访问时间为 一月 30, 2026， https://www.wisesheets.io/pe-ratio/2359.HK
+10. 大摩：仍将药明康德列为2026年首选股评级“增持” - 同花顺, 访问时间为 一月 30, 2026， https://m.10jqka.com.cn/20260113/c673968416.shtml
+11. WuXi AppTec Signs Definitive Agreement to Sell China-based Clinical Research Services Business to Hillhouse, 访问时间为 一月 30, 2026， https://www.wuxiapptec.com/news/wuxi-news/8605
+12. WuXi AppTec Revenue and Profit Achieved Steady QoQ Growth in 2024, Meeting Full-year Guidance, 访问时间为 一月 30, 2026， https://www.wuxiapptec.com/news/wuxi-news/6025
+13. CDMO/CMO Outlook: 2026 in Bio/Pharma Outsourcing - DCAT Value Chain Insights, 访问时间为 一月 30, 2026， https://www.dcatvci.org/features/cdmo-cmo-outlook-2026-in-bio-pharma-outsourcing/
+14. WuXi STA Launches New Small-Molecule API Facility; Expands Peptides, Oligonucleotides Capacity; Updates Drug-Product Expansions, 访问时间为 一月 30, 2026， https://sta.wuxiapptec.com/wp-content/uploads/2024/04/DCAT_2024_expansion_plan.pdf
+15. Accelerate GLP-1/GCG cyclic peptide conjugate drug to IND - WuXi TIDES, 访问时间为 一月 30, 2026， https://tides.wuxiapptec.com/resources/from-discovery-to-phase-i-rapid-delivery-of-a-complex-peptide-conjugate-in-10-months/
+16. The China Dependence Big Pharma Doesn't Want Washington to See, 访问时间为 一月 30, 2026， https://prosperousamerica.org/the-china-dependence-big-pharma-doesnt-want-washington-to-see/
+17. Strategically De-Risking U.S. Drug Supply Chains - RAND, 访问时间为 一月 30, 2026， https://www.rand.org/pubs/commentary/2025/04/strategically-de-risking-us-drug-supply-chains.html
+18. 全链条支持创新医药高质量发展 - 北京市科委, 访问时间为 一月 30, 2026， https://kw.beijing.gov.cn/xwdt/kcyx/xwdtshgg/202507/t20250708_4144051.html
+19. 药品管理新规 构建全链条创新激励生态, 访问时间为 一月 30, 2026， https://finance.sina.com.cn/roll/2026-01-30/doc-inhiztiv0671606.shtml
+20. Shanghai unveils 20 measures to encourage foreign reinvestment, 访问时间为 一月 30, 2026， https://english.shanghai.gov.cn/en-PolicyInsights/20260107/6d8819bbf1d344e9a82fef2832774cb2.html
+21. China Clinical Trial Reforms Boost Global CRO Growth, 访问时间为 一月 30, 2026， https://www.bioxconomy.com/clinical-and-research/chinas-clinical-trial-reforms-boost-innovation-and-create-new-opportunities-for-global-cros-and-drugmakers
+22. BIOSECURE Act Moves Closer to Enactment with Inclusion in FY 2026 NDAA Text, 访问时间为 一月 30, 2026， https://www.insidegovernmentcontracts.com/2025/12/biosecure-act-moves-closer-to-enactment-with-inclusion-in-fy-2026-ndaa-text/
+23. BIOSECURE Act Becomes Law Limiting Grants With Biotechnology Companies of Concern, 访问时间为 一月 30, 2026， https://www.lw.com/en/insights/biosecure-act-becomes-law-limiting-grants-with-biotechnology-companies-of-concern
+24. DOD Releases List of Chinese Military Companies in Accordance with Section 1260H of the National Defense Authorization Act for Fiscal Year 2021 - Department of War, 访问时间为 一月 30, 2026， https://www.war.gov/News/Releases/Release/Article/4023145/dod-releases-list-of-chinese-military-companies-in-accordance-with-section-1260/
+25. 中邮证券给予药明康德“买入”评级，业绩超预期，2025Q4盈利能力维持稳定 - 每日经济新闻, 访问时间为 一月 30, 2026， https://www.nbd.com.cn/articles/2026-01-19/4225582.html
+26. WuXi AppTec Jumps After Chinese Drugmaker Raises 2025 Earnings Forecast Again, 访问时间为 一月 30, 2026， https://www.yicaiglobal.com/news/wuxi-apptec-jumps-after-chinese-drugmaker-raises-2025-earnings-forecast-again
+27. 中邮证券：给予药明康德买入评级, 访问时间为 一月 30, 2026， https://wap.stockstar.com/detail/RB2026011900012592
+28. 29. 花旗维持药明康德买入评级 目标价142港元, 访问时间为 一月 30, 2026， https://www.donews.com/news/detail/8/6377509.html
